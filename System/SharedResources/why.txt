@@ -1,0 +1,3 @@
+This folder is a kind of sandbox for Manager working both with Creator and Reporter.
+Files produced by Creator and Reporter (when requested by Manager) are stored here.
+This all is in order to make System components as more independent as possible.
